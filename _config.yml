@@ -1,13 +1,13 @@
 # Site settings
-title: 三叶草国际语
-SEOTitle: 三叶草国际语 - 让沟通更容易
+title: 篱笆小站
+SEOTitle: 篱笆小站 - 让学习更容易
 header-img: img/post-bg-desk.jpg
-email: klovien@gmail.com
-description: "中西融合, 即学即会, 从此不再辛苦背单词"
-keyword: "人工语言, 国际语, 世界语, 三叶草国际语, 三叶语"
-url: "https://klovien.github.io"          # your host, for absolute URL
+email: zl24kobe@163.com
+description: "保持感恩和学习"
+keyword: "实验 科研 论文 面试 未来 项目"
+url: "https://zhongkobe.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/klovien/klovien.github.io.git" # you code repository
+github_repo: "https://github.com/zhongkobe/zhongkobe.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
